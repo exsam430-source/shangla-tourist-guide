@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "ہوم",
+    "places": "مقامات",
+    "tripPlanner": "سفر منصوبہ",
+    "imageSearch": "تصویر سے تلاش",
+    "alerts": "الرٹس",
+    "login": "لاگ ان",
+    "register": "رجسٹر",
+    "profile": "پروفائل",
+    "logout": "لاگ آؤٹ",
+    "savedPlaces": "محفوظ مقامات"
+  },
+  "hero": {
+    "title": "دریافت کریں",
+    "titleHighlight": "شانگلہ",
+    "subtitle": "چھپی ہوئی جنت",
+    "description": "اپنے AI گائیڈ کے ساتھ شانگلہ، خیبرپختونخوا کی خوبصورت وادیوں اور پہاڑوں کی سیر کریں",
+    "explorePlaces": "مقامات دیکھیں",
+    "chatWithAI": "AI گائیڈ سے بات کریں",
+    "voiceSearch": "آواز سے تلاش",
+    "scrollDown": "نیچے سکرول کریں"
+  },
+  "common": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "error": "کچھ غلط ہو گیا",
+    "retry": "دوبارہ کوشش کریں",
+    "seeAll": "سب دیکھیں",
+    "learnMore": "مزید جانیں",
+    "startJourney": "سفر شروع کریں",
+    "savePlace": "محفوظ کریں",
+    "savedPlace": "محفوظ ❤️",
+    "share": "شیئر کریں",
+    "back": "واپس",
+    "close": "بند کریں",
+    "submit": "جمع کریں",
+    "cancel": "منسوخ",
+    "search": "تلاش",
+    "filter": "فلٹر",
+    "sort": "ترتیب",
+    "viewOnMap": "نقشے پر دیکھیں",
+    "getDirections": "راستہ دیکھیں",
+    "viewDetails": "تفصیلات دیکھیں",
+    "noResults": "کوئی نتیجہ نہیں",
+    "reviews": "جائزے",
+    "rating": "درجہ بندی",
+    "weather": "موسم",
+    "altitude": "بلندی",
+    "difficulty": "مشکل",
+    "duration": "مدت",
+    "distance": "فاصلہ",
+    "category": "زمرہ"
+  },
+  "chatbot": {
+    "title": "AI گائیڈ",
+    "subtitle": "شانگلہ کے بارے میں کچھ بھی پوچھیں",
+    "placeholder": "مقامات، راستے، موسم کے بارے میں پوچھیں...",
+    "typing": "AI سوچ رہا ہے...",
+    "voiceStart": "بولنے کے لیے دبائیں",
+    "voiceStop": "رکنے کے لیے دبائیں",
+    "clearChat": "چیٹ صاف کریں",
+    "quickActions": {
+      "topPlaces": "اہم مقامات",
+      "weather": "موجودہ موسم",
+      "planTrip": "میرا سفر منصوبہ",
+      "roadAlerts": "سڑک الرٹس",
+      "bestTime": "بہترین وقت",
+      "accommodation": "قیام"
+    }
+  },
+  "alerts": {
+    "title": "سڑک اور موسمی الرٹس",
+    "active": "فعال الرٹس",
+    "noAlerts": "کوئی الرٹ نہیں۔ سڑکیں صاف ہیں! ✅",
+    "reportAlert": "مسئلہ رپورٹ کریں"
+  },
+  "auth": {
+    "loginTitle": "خوش آمدید",
+    "loginSubtitle": "اپنے اکاؤنٹ میں لاگ ان کریں",
+    "registerTitle": "شانگلہ ٹورسٹ میں شامل ہوں",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "name": "پورا نام",
+    "loginBtn": "لاگ ان کریں",
+    "registerBtn": "اکاؤنٹ بنائیں"
+  },
+  "footer": {
+    "tagline": "شانگلہ کا AI سیاحتی گائیڈ",
+    "rights": "جملہ حقوق محفوظ ہیں",
+    "madeWith": "شانگلہ سیاحت کے لیے ❤️ سے بنایا گیا"
+  }
+}
